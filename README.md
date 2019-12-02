@@ -1,1 +1,1 @@
-A simple generative adversial network code to generate mnist data.
+A simple generative adversarial network code to generate mnist data.
